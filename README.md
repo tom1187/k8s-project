@@ -35,5 +35,4 @@ docker-compose -f docker-compose-metrics.yml up -d
 docker-compose -f docker-compose-overview.yml up -d
 
 <img width="1226" alt="image" src="https://user-images.githubusercontent.com/54473916/178987839-1b06b342-073e-4900-bbd0-3920e1d990bb.png">
-![image](https://user-images.githubusercontent.com/54473916/178987886-c232165d-ab34-44ff-8a56-ff122418318b.png)
-
+<img width="1449" alt="image" src="https://user-images.githubusercontent.com/54473916/178988335-b33a07ff-4de2-4595-89ed-ff97f0601a8b.png">
