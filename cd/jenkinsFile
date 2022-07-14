@@ -7,7 +7,7 @@ podTemplate(label: 'helm-agent', containers: [containerTemplate(name: 'helm', im
             container('helm') {
                 dir("charts"){
                     sh "helm upgrade --install -n default producer producer"
-                    sh "helm upgrade --install -n default producer consumer"
+                    sh "helm upgrade --install -n default consumer consumer"
                 }
             }
         }
